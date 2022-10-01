@@ -2,3 +2,6 @@
 
 
 # How use snippets/hookit.sh
+
++ hk_pfbridge
++ hk_gpu
