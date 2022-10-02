@@ -13,9 +13,9 @@
 <details>
 <summary>hk_global</summary>
   
-+ -l|--log
+flag: -l,--log
   
-+ -p|--poll
+option: -p,--poll
 
 </details>
 
