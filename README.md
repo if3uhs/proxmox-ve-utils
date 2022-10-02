@@ -19,8 +19,15 @@
   
 Add the following to the vm description:
 ```bash
-+ hk_global -f -p 1
+Usage: example.sh [options]... [arguments]..."
+flag    -l    --log                             -- "write log"
+param   -p    --poll                            -- "write log"
 ```
+  
+Add the following to the vm description:  
+```bash
++ hk_global -l -p
+```  
   
 </details>
 
