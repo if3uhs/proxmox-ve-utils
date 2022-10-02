@@ -12,16 +12,10 @@
 
 <details>
 <summary>hk_global</summary>
-
-The fastest way to find {command options|code pieces} you need
-
-Supports multiple languages and many bash commands
-
-<div align="center">
-
-<img max-height="500px" max-width="500px" src="https://github.com/alexanderepstein/Bash-Snippets/blob/master/cheat/cheat.png?raw=true">
-
-</div>
+```md
++ -l|--log
++ -p|--poll
+```
 </details>
 
 <details>
@@ -481,85 +475,6 @@ This will clone the repository and install the new versions of scripts that were
 
 </details>
 
-## Uninstalling
-
-<details>
-  
-  <summary>AUR</summary>
-
-```bash
-pacman -Rns bash-snippets # or bash-snippets-git
-```
-
-</details>
-
-<details>
-  
-  <summary>APT Package Manager</summary>
-
-```bash
-sudo apt purge bash-snippets # you can also use remove instead of purge
-```
-
-</details>
-
-<details>
-  
-  <summary>homebrew (macOS) / linuxbrew (Linux)</summary>
-
-```bash
-brew uninstall bash-snippets
-```
-
-</details>
-
-<details>
-  
-  <summary>Git Uninstall</summary>
-  
-```bash
-git clone https://github.com/alexanderepstein/Bash-Snippets # If you don't have the Bash-Snippets folder anymore clone the repository
-cd Bash-Snippets # cd into the Bash-Snippets directory:
-```
-
-</details>
-
-<details>
-  
-<summary>To go through a guided uninstall</summary>
-```bash
-./uninstall.sh
-```
-
-##### To uninstall all installed bash-snippets
-```bash
-./uninstall.sh all
-```
-
-##### To go through a guided uninstall
-```bash
-./uninstall.sh
-```
-
-##### To uninstall all installed bash-snippets
-```bash
-./uninstall.sh all
-```
-
-</details>
-
-
-## Donate
-If this project helped you in any way and you feel like supporting me
-
-[![Donate](https://img.shields.io/badge/Donate-Venmo-blue.svg)](https://venmo.com/AlexanderEpstein)
-[![Donate](https://img.shields.io/badge/Donate-SquareCash-green.svg)](https://cash.me/$AlexEpstein)
-
-###### BTC: 38Q5VbH63MtouxHu8BuPNLzfY5B5RNVMDn
-###### ETH: 0xf7c60C06D298FF954917eA45206426f79d40Ac9D
-###### LTC: LWZ3T19YUk66dgkczN7dRhiXDMqSYrXUV4
-
-#### Inspired by: [Ruby-Scripts](https://github.com/jakewmeyer/Ruby-Scripts)
 
 ## License
 
