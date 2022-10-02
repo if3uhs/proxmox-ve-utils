@@ -13,11 +13,13 @@
 <details>
 <summary>hk_global</summary>
   
-+ flag: -l,--log
-  
-+ option: -p,--poll
-  
 #### example
+  
+Add the following to the vm description:
+  
+  `flag` -l,--log
+  
+  `option` -p,--poll
   
 ```bash
 + hk_global -f -p 1
