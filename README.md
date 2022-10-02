@@ -16,8 +16,8 @@
 #### Usage
   
 ```bash
-flag:     -l    --log                 desc: write log                               default: false
-param:    -p    --poll                desc: Detect vm running interval              default: 5s
+flag:                 -l or --log                 desc: write log                               default: false
+param:                -p or --poll                desc: Detect vm running interval              default: 5s
 ```
   
 Add the following to the vm description:  
