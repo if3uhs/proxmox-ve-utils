@@ -13,10 +13,15 @@
 <details>
 <summary>hk_global</summary>
   
-flag: -l,--log
++ flag: -l,--log
   
-option: -p,--poll
++ option: -p,--poll
 
+### example
+```bash
++ hk_global -f -p 1
+```
+  
 </details>
 
 <details>
