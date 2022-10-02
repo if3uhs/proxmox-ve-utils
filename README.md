@@ -11,7 +11,7 @@
 ## snippets
 
 <details>
-<summary>Cheat</summary>
+<summary>hk_global</summary>
 
 The fastest way to find {command options|code pieces} you need
 
@@ -25,7 +25,7 @@ Supports multiple languages and many bash commands
 </details>
 
 <details>
-<summary>Cloudup</summary>
+<summary>hk_pfbridge</summary>
 
 A tool that facilitates backing up github repositories to bitbucket
 
@@ -45,7 +45,7 @@ Or run it with no flags and backup individual repositories.
 
 
 <details>
-<summary>Crypt</summary>
+<summary>hk_gpu</summary>
 
 A wrapper for openssl that allows for quickly encrypting and decrypting files
 
