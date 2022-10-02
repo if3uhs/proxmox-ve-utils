@@ -13,13 +13,9 @@
 <details>
 <summary>hk_global</summary>
   
-#### example
+#### Usage
   
-`aaaaaa`
-  
-Add the following to the vm description:
 ```bash
-Usage: example.sh [options]... [arguments]..."
 flag:     -l    --log                 desc: write log                               default: false
 param:    -p    --poll                desc: Detect vm running interval              default: 5s
 ```
