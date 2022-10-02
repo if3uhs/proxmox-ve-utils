@@ -15,12 +15,9 @@
   
 #### example
   
+`aaaaaa`
+  
 Add the following to the vm description:
-  
-  `flag` -l,--log
-  
-  `option` -p,--poll
-  
 ```bash
 + hk_global -f -p 1
 ```
