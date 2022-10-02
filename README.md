@@ -20,8 +20,8 @@
 Add the following to the vm description:
 ```bash
 Usage: example.sh [options]... [arguments]..."
-flag    -l    --log                             -- "write log"
-param   -p    --poll                            -- "write log"
+flag:     -l    --log                 desc: write log                               default: false
+param:    -p    --poll                desc: Detect vm running interval              default: 5s
 ```
   
 Add the following to the vm description:  
