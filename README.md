@@ -12,7 +12,15 @@
 
 <details>
 <summary>hk_global</summary>
-  
+
+
+```bash
+flags:
+  -l,--[no]log:       echo 'log' >> /var/run/vimd.log (default: false)
+  -p,--poll:          detect vm running interval(s) (default: 5)
+  -h,--help:          show this help (default: false)
+```
+
 #### Usage
   
 ```bash
